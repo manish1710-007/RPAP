@@ -1,0 +1,123 @@
+ ˛∫æ   43
+ î 
+ î
+ î
+ î
+ î
+ î
+ î
+ ´
+ î	 î	
+ î
+	 î
+ 	 î	
+ )	A   	 î	
+ $	 î
+ 	 î
+ 
+ 	 î	 î	 î
+ !	 î
+ $	 î 	 î!	 î"#
+ )	 î$%
+ î&'
+()*
+(+
+ î,-
+ 3.
+ î/
+ 0
+ 1
+ 2
+ 34
+ 5
+ 6
+ 78
+ 59
+ @:
+ ;<=
+ D:>?
+ G:@
+ !AB
+ !5
+ !C
+ $D
+ $EF
+ P:
+ $GH
+ S:IJKLMNOPQR
+ XS
+ )TU
+ a:
+ );VW
+ e:X
+ îY
+ gZ
+[\	]^
+ g_
+ g`
+ab
+cd	]e
+af	ghi
+aj
+ak
+cl
+am
+an
+co
+cp
+cq
+ gr
+as	gt	]u
+ gv
+ îwx
+yz{
+ )|
+}~
+yÄ
+ $Å
+ÇÉÑ
+ îÖ
+ îÜ
+áàâä
+ èã
+áåçé
+èê
+ëí	ìî
+ëïñóò
+yô
+öõ
+úùû
+ Èê
+ Yü
+ È†
+ú°¢£§•¶
+ ®
+ß®© InnerClasses rs %LRemotePointerServer/RuntimeSettings; jButtonClose Ljavax/swing/JButton; jButtonClose1 jButtonPlayStore jButtonWebsite jComboBoxStyle Ljavax/swing/JComboBox; 	Signature +Ljavax/swing/JComboBox<Ljava/lang/String;>; jLabelMouseSpeed Ljavax/swing/JLabel; jLabelPointerSpeed jLabelPointerSpeed1 jLabelVersion jScrollPane1 Ljavax/swing/JScrollPane; jSliderMouseSpeed Ljavax/swing/JSlider; jSliderPointerSpeed jTextAreaAbout Ljavax/swing/JTextArea; <init> ()V Code LineNumberTable LocalVariableTable this !LRemotePointerServer/AboutWindow; ((LRemotePointerServer/RuntimeSettings;)V initSliders ms F StackMapTable initComponents bundle Ljava/util/ResourceBundle; layout Ljavax/swing/GroupLayout; jButtonCloseActionPerformed (Ljava/awt/event/ActionEvent;)V evt Ljava/awt/event/ActionEvent; prefs Ljava/util/prefs/Preferences; jButtonPlayStoreActionPerformed ex Ljava/io/IOException; Ljava/net/URISyntaxException; jButtonWebsiteActionPerformed onPointerSpeedChanged "(Ljavax/swing/event/ChangeEvent;)V Ljavax/swing/event/ChangeEvent; onMouseSpeedChanged jComboBoxStyleActionPerformed jButtonClose1ActionPerformed main ([Ljava/lang/String;)V info™ LookAndFeelInfo 'Ljavax/swing/UIManager$LookAndFeelInfo; "Ljava/lang/ClassNotFoundException; "Ljava/lang/InstantiationException; "Ljava/lang/IllegalAccessException; -Ljavax/swing/UnsupportedLookAndFeelException; args [Ljava/lang/String;´ 
+access$000 @(LRemotePointerServer/AboutWindow;Ljava/awt/event/ActionEvent;)V x0 x1 
+access$100 
+access$200 
+access$300 C(LRemotePointerServer/AboutWindow;Ljavax/swing/event/ChangeEvent;)V 
+access$400 
+access$500 
+access$600 
+SourceFile AboutWindow.java Â ÷ ‰ ÷ „ · ‡ · € ÷ ﬂ ÷ ’ ÷ ƒ ≈ – ≈ ≠ Æ Ã ≈ ¬ √¨≠ ¥ µÆØ∞±≠≤ Œ ¡ ¿≥ Œ¥≠ ø ¿ javax/swing/JScrollPane Ω æ javax/swing/JTextArea javax/swing/JButton Ø ∞ ≥ ∞ ≤ ∞ javax/swing/JLabel ∏ π javax/swing/JSlider º π ∫ π ª π javax/swing/JComboBox ± ∞ javax/swing/WindowConstantsµ≠ RemotePointerServer/Bundle∂∑∏ AboutWindow.titleπ∫ªº java/awt/Dimension ƒΩæø¿¡¬≠√¡ƒ≠ AboutWindow.jTextAreaAbout.text≈º∆¡«» AboutWindow.jButtonClose.text !RemotePointerServer/AboutWindow$1 ƒ… À AboutWindow.jButtonWebsite.text !RemotePointerServer/AboutWindow$2 !AboutWindow.jButtonPlayStore.text !RemotePointerServer/AboutWindow$3 javax/swing/SwingConstantsÃ≠ !AboutWindow.jLabelMouseSpeed.textÕ≠Œ≠œ≠ !RemotePointerServer/AboutWindow$4–— !RemotePointerServer/AboutWindow$5 AboutWindow.jLabelVersion.text #AboutWindow.jLabelPointerSpeed.text $AboutWindow.jLabelPointerSpeed1.text  javax/swing/DefaultComboBoxModel java/lang/String Red Green Blue 	Spotlight Arrow ƒ“”‘ !RemotePointerServer/AboutWindow$6 AboutWindow.jButtonClose1.text !RemotePointerServer/AboutWindow$7 javax/swing/GroupLayout’÷ ƒ◊ÿŸ⁄€›ﬁﬂ·‚‰ÂÊ‰ÁËÈÍﬁËÎÌÔ java/lang/ShortÒÚÒÛÙ˜Ù¯˘˙Ë˚Ë¸Ù˝˛ˇË ﬁˇ ≈ #RemotePointerServer/RemoteSpotlight pointer_style	
+ pointer_speed	 mouse_speed¡ ≈ java/net/URI Lhttps://play.google.com/store/apps/details?id=systems.sieber.remotespotlight ƒº java/io/IOException RemotePointerServer/AboutWindow !"# java/net/URISyntaxException http://maxiee.tk connection_code$º%&≠'() Nimbus*+,-º  java/lang/ClassNotFoundException  java/lang/InstantiationException  java/lang/IllegalAccessException +javax/swing/UnsupportedLookAndFeelException !RemotePointerServer/AboutWindow$8./0 javax/swing/JFrame %javax/swing/UIManager$LookAndFeelInfo ([Ljavax/swing/UIManager$LookAndFeelInfo; setCaretPosition (I)V #RemotePointerServer/RuntimeSettings pointerStyle I setSelectedIndex 
+mouseSpeed pointerSpeed setValue setDefaultCloseOperation java/util/ResourceBundle 	getBundle .(Ljava/lang/String;)Ljava/util/ResourceBundle; 	getString &(Ljava/lang/String;)Ljava/lang/String; setTitle (Ljava/lang/String;)V (II)V setMinimumSize (Ljava/awt/Dimension;)V setEditable (Z)V 
+setColumns setLineWrap setRows setText setWrapStyleWord setViewportView (Ljava/awt/Component;)V $(LRemotePointerServer/AboutWindow;)V addActionListener "(Ljava/awt/event/ActionListener;)V setHorizontalAlignment setHorizontalTextPosition 
+setMaximum 
+setMinimum addChangeListener %(Ljavax/swing/event/ChangeListener;)V ([Ljava/lang/Object;)V setModel (Ljavax/swing/ComboBoxModel;)V getContentPane ()Ljava/awt/Container; (Ljava/awt/Container;)V java/awt/Container 	setLayout (Ljava/awt/LayoutManager;)V !javax/swing/GroupLayout$Alignment 	Alignment LEADING #Ljavax/swing/GroupLayout$Alignment; createParallelGroup ParallelGroup L(Ljavax/swing/GroupLayout$Alignment;)Ljavax/swing/GroupLayout$ParallelGroup; createSequentialGroup SequentialGroup +()Ljavax/swing/GroupLayout$SequentialGroup; 'javax/swing/GroupLayout$SequentialGroup addContainerGap %javax/swing/GroupLayout$ParallelGroup addComponent =(Ljava/awt/Component;)Ljavax/swing/GroupLayout$ParallelGroup; TRAILING ?(Ljava/awt/Component;)Ljavax/swing/GroupLayout$SequentialGroup;1 *javax/swing/LayoutStyle$ComponentPlacement ComponentPlacement RELATED ,Ljavax/swing/LayoutStyle$ComponentPlacement; addPreferredGap Y(Ljavax/swing/LayoutStyle$ComponentPlacement;II)Ljavax/swing/GroupLayout$SequentialGroup; W(Ljavax/swing/LayoutStyle$ComponentPlacement;)Ljavax/swing/GroupLayout$SequentialGroup; addGroup2 Group k(Ljavax/swing/GroupLayout$Alignment;Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup; J(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$SequentialGroup; addGap .(III)Ljavax/swing/GroupLayout$SequentialGroup; c(Ljava/awt/Component;Ljavax/swing/GroupLayout$Alignment;III)Ljavax/swing/GroupLayout$ParallelGroup; @(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$ParallelGroup; H(Ljavax/swing/GroupLayout$Group;)Ljavax/swing/GroupLayout$ParallelGroup; setHorizontalGroup "(Ljavax/swing/GroupLayout$Group;)V B(Ljava/awt/Component;III)Ljavax/swing/GroupLayout$SequentialGroup; 	UNRELATED BASELINE setVerticalGroup pack java/util/prefs/Preferences userNodeForPackage 0(Ljava/lang/Class;)Ljava/util/prefs/Preferences; getSelectedIndex ()I java/lang/Integer toString (I)Ljava/lang/String; put '(Ljava/lang/String;Ljava/lang/String;)V getValue java/lang/Float (F)Ljava/lang/String; 
+setVisible dispose java/awt/Desktop 
+getDesktop ()Ljava/awt/Desktop; browse (Ljava/net/URI;)V java/lang/Class getName ()Ljava/lang/String; java/util/logging/Logger 	getLogger .(Ljava/lang/String;)Ljava/util/logging/Logger; java/util/logging/Level SEVERE Ljava/util/logging/Level; log C(Ljava/util/logging/Level;Ljava/lang/String;Ljava/lang/Throwable;)V remove java/lang/System exit javax/swing/UIManager getInstalledLookAndFeels *()[Ljavax/swing/UIManager$LookAndFeelInfo; equals (Ljava/lang/Object;)Z getClassName setLookAndFeel java/awt/EventQueue invokeLater (Ljava/lang/Runnable;)V javax/swing/LayoutStyle javax/swing/GroupLayout$Group ! î ´     ≠ Æ    Ø ∞    ± ∞    ≤ ∞    ≥ ∞    ¥ µ  ∂    ∑  ∏ π    ∫ π    ª π    º π    Ω æ    ø ¿    ¡ ¿    ¬ √     ƒ ≈  ∆   ;     	*∑ *∑ 	±    «            »       	 …      ƒ À  ∆   V     *∑ *+µ 
+*∑ 	*∑ ±    «          	      »        …        ≠ Æ   Ã ≈  ∆   ò     A*¥ ∂ *¥ 
+∆ 4*¥ *¥ 
+¥ ∂ *¥ 
+¥ jD*¥ *¥ 
+¥ ã∂ *¥ #ã∂ ±    «              (   7 ! @ # »     (  Õ Œ    A …     œ    ˚ @  – ≈  ∆  x    B*ª Y∑ µ *ª Y∑ µ *ª Y∑ µ *ª Y∑ µ *ª Y∑ µ  *ª !Y∑ "µ #*ª $Y∑ %µ *ª $Y∑ %µ *ª !Y∑ "µ &*ª !Y∑ "µ '*ª !Y∑ "µ (*ª )Y∑ *µ *ª Y∑ µ +*∂ -.∏ /L*+0∂ 1∂ 2*ª 3Y&Ω∑ 4∂ 5*¥ ∂ 6*¥ ∂ 7*¥ ∂ 8*¥ ∂ 9*¥ +:∂ 1∂ ;*¥ ∂ <*¥ *¥ ∂ =*¥ +>∂ 1∂ ?*¥ ª @Y*∑ A∂ B*¥ +C∂ 1∂ ?*¥ ª DY*∑ E∂ B*¥  +F∂ 1∂ ?*¥  ª GY*∑ H∂ B*¥ #∂ J*¥ #+K∂ 1∂ L*¥ #∂ M*¥ 2∂ N*¥ 
+∂ O*¥ ∂ *¥ ª PY*∑ Q∂ R*¥ ∂ N*¥ ∂ O*¥ 
+∂ *¥ ª SY*∑ T∂ R*¥ &∂ J*¥ &+U∂ 1∂ L*¥ &∂ M*¥ '∂ J*¥ '+V∂ 1∂ L*¥ '∂ M*¥ (∂ J*¥ (+W∂ 1∂ L*¥ (∂ M*¥ ª XYΩ YYZSY[SY\SY]SY^S∑ _∂ `*¥ ª aY*∑ b∂ c*¥ ++d∂ 1∂ ?*¥ +ª eY*∑ f∂ Bª gY*∂ h∑ iM*∂ h,∂ j,,≤ k∂ l,∂ m∂ n,≤ k∂ l*¥ ∂ o≤ p,∂ m*¥ ∂ q≤ rˇ∂ t*¥ &∂ q≤ r∂ u*¥ ∂ q∂ v,∂ m,≤ k∂ l*¥  ∂ o*¥ #∂ o*¥ '∂ o*¥ (∂ o∂ w∂ x,≤ k∂ l*¥ ≤ pˇ∂ y*¥ ˇ∂ z*¥ ˇ∂ z≤ p,∂ mˇ∂ x*¥ +∂ q∂ v∂ w∂ {∂ w∂ n∂ {∂ |,,≤ k∂ l,∂ m∂ n*¥  •ˇ∂ }≤ ~∂ u,≤ ∂ l*¥ ˛˛∂ z*¥ (˛"˛∂ z∂ w≤ ~∂ u,≤ k∂ l*¥ ˛˛∂ z*¥ '˛"˛∂ z∂ w≤ ~∂ u,≤ k∂ l*¥ ˛˛∂ z*¥ #˛"˛∂ z∂ w≤ ~∂ u,≤ ∂ l*¥  ∂ o*¥ +∂ o∂ w≤ r∂ u,≤ ∂ l*¥ ∂ o*¥ ∂ o*¥ &˛"˛∂ z∂ w∂ n∂ {∂ Ä*∂ Å±    «  ˛    .  /  0 ! 1 , 2 7 3 B 4 M 5 X 6 c 7 n 8 y 9 Ñ : è < î = ö > § ? µ A Ω B ∆ C Œ D ÷ E „ F Î G ˆ I J P Q. W; XJ ^R __ `g bp cy dÇ eë kö l¢ m´ n∫ t¬ uœ v◊ xﬂ yÏ zÙ |¸ }	 ~ Ä< ÅK áX àg és è{ êÄ ëÑ íá ìé îï ïú ñ£ ó≠ ò¥ ô∫ ö¡ õƒ ñ» úœ ù÷ û› ü‰ †Î °Ó ù˜ ¢˛ £ § •% ¶, ß4 ®; ©> ßA £D úG îJ ™M íP êS ¨X ≠\ Æ_ Øm ∞s ±z ≤Ü ≥ì ¥ñ ≤ú µ£ ∂Ø ∑º ∏ø ∂≈ πÃ ∫ÿ ªÂ ºË ∫Ó Ωı æ¸ ø ¿ æ ¡ ¬ √! ƒ. ≈1 ¬4 ∆7 Æ: ¨= …A   »       B …     ö® — “ sœ ” ‘   ’ ÷  ∆   õ     EÇ∏ ÉM,Ñ*¥ ∂ Ö∏ Ü∂ á,à*¥ ∂ âÜ∏ ä∂ á,ã*¥ ∂ âÜn∏ ä∂ á*∂ å*∂ ç±    «       Õ  Œ  œ ' – ; “ @ ” D ‘ »        E …       E ◊ ÿ   ? Ÿ ⁄   € ÷  ∆   Ω     8∏ éª èYê∑ ë∂ íß (Mî∂ ï∏ ñ≤ ó,∂ òß Mî∂ ï∏ ñ≤ ó,∂ ò±      ì    & ô  «   "    ÿ  ›  Ÿ  ⁄ # › & € ' ‹ 7 ﬁ »   *    ‹ ›  '  ‹ ﬁ    8 …       8 ◊ ÿ  œ    R ìS ô  ﬂ ÷  ∆   Ω     8∏ éª èYö∑ ë∂ íß (Mî∂ ï∏ ñ≤ ó,∂ òß Mî∂ ï∏ ñ≤ ó,∂ ò±      ì    & ô  «   "    ‚  Á  „  ‰ # Á & Â ' Ê 7 Ë »   *    ‹ ›  '  ‹ ﬁ    8 …       8 ◊ ÿ  œ    R ìS ô  ‡ ·  ∆   H     *¥ 
+*¥ ∂ âÜµ ±    «   
+    Î  Ï »        …        ◊ ‚   „ ·  ∆   K     *¥ 
+*¥ ∂ âÜnµ ±    «   
+    Ô   »        …        ◊ ‚   ‰ ÷  ∆   G     *¥ 
+*¥ ∂ Öµ ±    «   
+    Û  Ù »        …        ◊ ÿ   Â ÷  ∆   [     Ç∏ ÉM,õ∂ ú∏ ù±    «       ˜  ¯  ˘  ˙ »         …        ◊ ÿ    Ÿ ⁄  	 Ê Á  ∆  u     å∏ ûL+æ=>¢ &+2:ü∂ †∂ °ô ∂ ¢∏ £ß 	Ñßˇ€ß PLî∂ ï∏ ñ≤ ó+∂ òß <Lî∂ ï∏ ñ≤ ó+∂ òß (Lî∂ ï∏ ñ≤ ó+∂ òß Lî∂ ï∏ ñ≤ ó+∂ òª ®Y∑ ©∏ ™±    1 4 §   1 H •   1 \ ¶   1 p ß  «   N       (	 + 1 4 5 E H I Y \ ] m p q Å ã »   >    Ë Î  5  ‹ Ï  I  ‹ Ì  ]  ‹ Ó  q  ‹ Ô    å  Ò   œ    ˛ 	 Ú!¯ B §S •S ¶S ß Û Ù  ∆   :     *+∑ ±    «        »        ı        ˆ ÿ  ˜ Ù  ∆   :     *+∑ ±    «        »        ı        ˆ ÿ  ¯ Ù  ∆   :     *+∑ ±    «        »        ı        ˆ ÿ  ˘ ˙  ∆   :     *+∑ ±    «        »        ı        ˆ ‚  ˚ ˙  ∆   :     *+∑ ±    «        »        ı        ˆ ‚  ¸ Ù  ∆   :     *+∑ ±    «        »        ı        ˆ ÿ  ˝ Ù  ∆   :     *+∑ ±    «        »        ı        ˆ ÿ   ˛    ˇ ¨   r  ®       e       a       S       P       G       D       @       Èú Í 	] g‹@c g‡ a g„ gÏÓ@ı gˆ
